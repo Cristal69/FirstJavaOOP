@@ -1,5 +1,4 @@
 
-
 class Ticket {
     private static int counter = 1; // Лічильник для унікальних номерів квитків
     private final int ticketNumber;

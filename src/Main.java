@@ -1,6 +1,4 @@
 
-
-
 public class Main {
     public static void main(String[] args) {
             Passenger alice = new Passenger("Alice", 3); // Макс. 3 квитки

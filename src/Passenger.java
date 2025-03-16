@@ -1,5 +1,4 @@
 
-
 class Passenger {
     private final String name;
     private final Ticket[] tickets; // Масив для збереження квитків
